@@ -1,6 +1,4 @@
-# OTA_Automatio
-
-Dosta-EERO-OTA Automation 
+# Dosta-EERO-OTA Automation 
 
 [Jira] CONN-25766- https://eeroinc.atlassian.net/browse/CONN-26766
 
