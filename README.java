@@ -1,22 +1,3 @@
-# Dosta-EERO-OTA Automation 
-[Jira] CONN-25766- https://eeroinc.atlassian.net/browse/CONN-26766
-
-[Problem] Automate OTA build to check Secondary Firmware cases.
-
-[Solution] Created an automation sript to update the OTA and check the Secondary Firmware section.
-
-[Test] Tested locally in eclipse.
-
-[Test case link]
-
-https://testrail.eero.amazon.dev/index.php?/cases/view/2444
-
-https://testrail.eero.amazon.dev/index.php?/cases/view/2445
-
-https://testrail.eero.amazon.dev/index.php?/cases/view/2446
-
-OTA Automation Code:
-
     import java.awt.Image;
     import java.io.File;
     import java.io.FileInputStream;
